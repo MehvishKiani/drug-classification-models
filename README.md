@@ -40,6 +40,7 @@ To run the code, ensure you have Python installed along with the required librar
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib
+```
 
-License
+**License**
 This project is licensed under the MIT License 
